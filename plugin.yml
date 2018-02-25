@@ -1,0 +1,21 @@
+name: Mineplexer
+author: ["Atticus Zambrana"]
+main: net.angusbeefgaming.mineplex.Mineplexer
+version: 1.0
+commands:
+  help:
+    description: Get Help
+  updaterank:
+    description: Update Players Rank
+  setconfig:
+    description: Change Game Values
+  gm:
+    description: Change Game Modes
+  office:
+    description: Access Beefplex Staff Offices
+  announce:
+    description: Make a Network Wide Announcement
+  gem:
+    description: Change a players gem count
+  connect:
+    description: Open Server Selector for a Game
